@@ -1,0 +1,54 @@
+C:\Users\Admin\source\repos\DOMINOclient\bin\Debug\DOMINOclient.exe.config
+C:\Users\Admin\source\repos\DOMINOclient\bin\Debug\DOMINOclient.exe
+C:\Users\Admin\source\repos\DOMINOclient\bin\Debug\DOMINOclient.pdb
+C:\Users\Admin\source\repos\DOMINOclient\obj\Debug\DOMINOclient.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DOMINOclient\obj\Debug\DOMINOclient.Lobby.resources
+C:\Users\Admin\source\repos\DOMINOclient\obj\Debug\DOMINOclient.Menu.resources
+C:\Users\Admin\source\repos\DOMINOclient\obj\Debug\DOMINOclient.Properties.Resources.resources
+C:\Users\Admin\source\repos\DOMINOclient\obj\Debug\DOMINOclient.Table.resources
+C:\Users\Admin\source\repos\DOMINOclient\obj\Debug\DOMINOclient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DOMINOclient\obj\Debug\DOMINOclient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DOMINOclient\obj\Debug\DOMINOclient.exe
+C:\Users\Admin\source\repos\DOMINOclient\obj\Debug\DOMINOclient.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\bin\Debug\DOMINOclient.exe.config
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\bin\Debug\DOMINOclient.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\bin\Debug\DOMINOclient.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.Lobby.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.Menu.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.Properties.Resources.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.Table.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.Rule.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOclient\obj\Debug\DOMINOclient.Form1.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\bin\Debug\DOMINOclient.exe.config
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\bin\Debug\DOMINOclient.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\bin\Debug\DOMINOclient.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.Lobby.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.Menu.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.Properties.Resources.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.Rule.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.Table.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOclient\obj\Debug\DOMINOclient.VictoryForm.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\bin\Debug\DOMINOclient.exe.config
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\bin\Debug\DOMINOclient.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\bin\Debug\DOMINOclient.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.VictoryForm.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.Lobby.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.Menu.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.Properties.Resources.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.Rule.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.Table.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOclient\obj\Debug\DOMINOclient.pdb

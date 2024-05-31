@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\DOMINO - last\\DOMINOserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1ADE7D-C9CE-4260-BC09-F827229FB48D}|DOMINOserver.csproj|c:\\users\\admin\\downloads\\domino - last\\dominoserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1ADE7D-C9CE-4260-BC09-F827229FB48D}|DOMINOserver.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1ADE7D-C9CE-4260-BC09-F827229FB48D}|DOMINOserver.csproj|C:\\Users\\Admin\\Downloads\\DOMINO - last\\DOMINOserver\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1ADE7D-C9CE-4260-BC09-F827229FB48D}|DOMINOserver.csproj|solutionrelative:players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1ADE7D-C9CE-4260-BC09-F827229FB48D}|DOMINOserver.csproj|C:\\Users\\Admin\\Downloads\\DOMINO - last\\DOMINOserver\\drawpile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1ADE7D-C9CE-4260-BC09-F827229FB48D}|DOMINOserver.csproj|solutionrelative:drawpile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DOMINO - last\\DOMINOserver\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DOMINO - last\\DOMINOserver\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAgwBQBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:58:56.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DOMINO - last\\DOMINOserver\\Players.cs",
+              "RelativeDocumentMoniker": "Players.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DOMINO - last\\DOMINOserver\\Players.cs",
+              "RelativeToolTip": "Players.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:54:28.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawPile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DOMINO - last\\DOMINOserver\\DrawPile.cs",
+              "RelativeDocumentMoniker": "DrawPile.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DOMINO - last\\DOMINOserver\\DrawPile.cs",
+              "RelativeToolTip": "DrawPile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:51:01.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

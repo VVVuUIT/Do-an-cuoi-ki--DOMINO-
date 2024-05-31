@@ -1,0 +1,36 @@
+C:\Users\Admin\source\repos\DOMINOserver\bin\Debug\DOMINOserver.exe.config
+C:\Users\Admin\source\repos\DOMINOserver\bin\Debug\DOMINOserver.exe
+C:\Users\Admin\source\repos\DOMINOserver\bin\Debug\DOMINOserver.pdb
+C:\Users\Admin\source\repos\DOMINOserver\obj\Debug\DOMINOserver.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DOMINOserver\obj\Debug\DOMINOserver.Properties.Resources.resources
+C:\Users\Admin\source\repos\DOMINOserver\obj\Debug\DOMINOserver.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DOMINOserver\obj\Debug\DOMINOserver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DOMINOserver\obj\Debug\DOMINOserver.exe
+C:\Users\Admin\source\repos\DOMINOserver\obj\Debug\DOMINOserver.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOserver\bin\Debug\DOMINOserver.exe.config
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOserver\bin\Debug\DOMINOserver.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOserver\bin\Debug\DOMINOserver.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOserver\obj\Debug\DOMINOserver.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOserver\obj\Debug\DOMINOserver.Properties.Resources.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOserver\obj\Debug\DOMINOserver.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOserver\obj\Debug\DOMINOserver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOserver\obj\Debug\DOMINOserver.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\1\DOMINOserver\obj\Debug\DOMINOserver.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOserver\bin\Debug\DOMINOserver.exe.config
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOserver\bin\Debug\DOMINOserver.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOserver\bin\Debug\DOMINOserver.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOserver\obj\Debug\DOMINOserver.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOserver\obj\Debug\DOMINOserver.Properties.Resources.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOserver\obj\Debug\DOMINOserver.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOserver\obj\Debug\DOMINOserver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOserver\obj\Debug\DOMINOserver.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO\DOMINOserver\obj\Debug\DOMINOserver.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOserver\bin\Debug\DOMINOserver.exe.config
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOserver\bin\Debug\DOMINOserver.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOserver\bin\Debug\DOMINOserver.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOserver\obj\Debug\DOMINOserver.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOserver\obj\Debug\DOMINOserver.Properties.Resources.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOserver\obj\Debug\DOMINOserver.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOserver\obj\Debug\DOMINOserver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOserver\obj\Debug\DOMINOserver.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\DOMINO - Copy\DOMINOserver\obj\Debug\DOMINOserver.pdb
